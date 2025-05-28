@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Nuuvem - Sua loja digital de jogos",
+  "Type": "Screen",
+  "Id": "EBKIi2U0mUi2T-wC6vveWg",
+  "Reference": "tDR17griiE6CIAd1FBmf5w/EBKIi2U0mUi2T-wC6vveWg",
+  "ParentRef": "tDR17griiE6CIAd1FBmf5w/658ixo3OkEWrMg7EtFvDvg",
+  "Created": "2025-05-23T16:42:30.5239511Z",
+  "Updated": "2025-05-23T16:42:30.5239511Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3o9op5msx0ygNOKbHw6SKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nuuvem.com/br-pt" CVScreenId="48d9d953-33a5-4eb3-b9e9-67870cc576dc" CvElementArea="1215, 173, 134, 59" CvTextArea="1242, 197, 49, 12" CvTextArgument="Buscar" CvType="Button" DesignTimeRectangle="1222, 179, 121, 48" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='search' class='header-search-field' placeholder='Buscar' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="024c7198-7d90-4132-87b4-67f1c6ba7bdd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Nuuvem - Sua loja digital de jogos' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="48d9d953-33a5-4eb3-b9e9-67870cc576dc" CvTextArea="1050, 194, 61, 16" CvTextArgument="Mobile" CvType="Text" DesignTimeRectangle="1025, 192, 114, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='         Mobile       ' parentid='header-nav' tag='A' type='' class='header-menu--link ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Mobile' /&gt;" Guid="28d37141-030a-4d0a-8386-4dd7aaf1c4e8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="10e8c6141b421a42276c25e0ad9d9e5d.png" xmlns="">0HhbFfrGPlE6PgxMAE5XJ9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

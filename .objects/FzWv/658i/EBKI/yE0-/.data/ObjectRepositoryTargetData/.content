@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-jOpjh_p3kCIU0Tb8XKqzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nuuvem.com/br-pt" CVScreenId="c601bd7b-6c57-4dd0-913b-762fb599606b" CvElementArea="572, 176, 771, 54" CvType="InputBox" DesignTimeRectangle="578, 179, 765, 48" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="2de41c5e-bfe3-4d2e-942d-b56b8b1f1f5d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Nuuvem - Sua loja digital de jogos' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="fc706591d27beee25dfaf176df2ad1e8.png" xmlns="">0P9rEHHgHK06x03Znk5kZ2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
